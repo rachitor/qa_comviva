@@ -48,5 +48,36 @@ Below are the test cases examples :
   2. The recipient should receive the call.
   3. Both parties should be able to communicate through the voice call.
   
+**DEFECTS WITH HIGH, MEDIUM AND LOW PRIORITY ON WEBSITE:**
 
+**Defect ID:** 001
+
+**Descriptive Defect Name and Type:**
+
+**Defect Name:** "Add Account" Button Functionality Not Working
+
+**Defect Type:** Functionality
+
+**Defect Severity:** High
+
+**Defect Priority:** Urgent
+
+**Defect Status:** Open
+
+**Detailed Description:**
+  The "Add Account" button functionality is not working as expected. When users attempt to add a new account, the system fails to process the request, and the account   is not added successfully.
+
+**Steps to Reproduce the Defect:**
+1. Log in to the application with valid credentials.
+2. Navigate to the dashboard or the section where the "Add Account" button is present.
+3. Click on the "Add Account" button.
+4. Observe that the system does not respond as expected, and the account is not added.
+   
+**Additional Information:**
+
+**Browser/Platform:**
+Firefox
+
+**Notes:**
+- This defect is of high severity and urgency as it affects a critical functionality of the application.
 
