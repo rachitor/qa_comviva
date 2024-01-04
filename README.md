@@ -6,23 +6,23 @@
   Verify the ability to send a text message in a WhatsApp chat.
   
 **Test Steps:**
-  Open the WhatsApp application on the device.
-  Ensure that you are logged in to your WhatsApp account.
-  Navigate to an existing chat or create a new chat.
-  In the chat window, type a text message.
-  Press the “Send” button.
+  1. Open the WhatsApp application on the device.
+  2. Ensure that you are logged in to your WhatsApp account.
+  3. Navigate to an existing chat or create a new chat.
+  4. In the chat window, type a text message.
+  5. Press the “Send” button.
   
 **Prerequisites:**
-  A smartphone with the WhatsApp application installed.
-  An active WhatsApp account.
+  1. A smartphone with the WhatsApp application installed.
+  2. An active WhatsApp account.
   
 **Test Data:**
   Text message - "Hello, I am Rachit."
   
 **Expected Results:**
-  The text message should be successfully sent.
-  The sent message should be displayed in the chat window.
-  The recipient should receive the message.
+  1. The text message should be successfully sent.
+  2. The sent message should be displayed in the chat window.
+  3. The recipient should receive the message.
 
 **Test Case ID:** 002
 
@@ -30,21 +30,21 @@
   Verify the ability to make a voice call in a WhatsApp chat.
   
 **Test Steps:**
-  Open the WhatsApp application on the device.
-  Ensure that you are logged in to your WhatsApp account.
-  Navigate to an existing chat or create a new chat.
-  In the chat window, click on the phone icon to initiate a voice call.
-  Wait for the recipient to answer the call.
+  1. Open the WhatsApp application on the device.
+  2. Ensure that you are logged in to your WhatsApp account.
+  3. Navigate to an existing chat or create a new chat.
+  4. In the chat window, click on the phone icon to initiate a voice call.
+  5. Wait for the recipient to answer the call.
   
 **Prerequisites:**
-  A smartphone with the WhatsApp application installed.
-  An active WhatsApp account.
-  Internet connectivity.
+  1. A smartphone with the WhatsApp application installed.
+  2. An active WhatsApp account.
+  3. Internet connectivity.
    
 **Expected Results:**
-  The voice call should be successfully initiated.
-  The recipient should receive the call.
-  Both parties should be able to communicate through the voice call.
+  1. The voice call should be successfully initiated.
+  2. The recipient should receive the call.
+  3. Both parties should be able to communicate through the voice call.
   
 
 
